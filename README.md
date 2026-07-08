@@ -1,12 +1,29 @@
-## Moksha Shrivastava
-Clinical Research Student building skills in Clinical Data Management, Python, and CDISC standards.
+# Moksha Shrivastava
 
-**Currently working on:**
-- Edit Check Simulator — clinical data validation tool in Python
-- Heart disease dataset reframed to CDASH standards
+Clinical Research student developing practical projects in **Clinical Data Management (CDM)** to demonstrate industry-relevant skills.
 
-**Interests:** CDM · SDTM · REDCap · SAS · Python for clinical data
+## Focus Areas
+- Clinical Data Management
+- CDISC (CDASH & SDTM)
+- Clinical data validation
+- Python automation
+- Electronic Data Capture (REDCap)
+- Clinical programming fundamentals
 
-**Contacts:** 
-Linkedin ~
-https://www.linkedin.com/in/moksha-s-9b893b323/
+## Featured Projects
+
+### Edit Check Simulator
+Python tool that simulates clinical edit checks to identify missing, inconsistent, and invalid study data.
+
+### CDASH Dataset Mapping
+Public heart disease dataset reorganized into a CDASH-style structure to demonstrate data collection standardization.
+
+## Currently Learning
+- SAS
+- SDTM implementation
+- REDCap workflows
+- Clinical database design
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/moksha-s-9b893b323
+- Kaggle: https://www.kaggle.com/mokshayayay
