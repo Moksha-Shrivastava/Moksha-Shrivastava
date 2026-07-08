@@ -13,10 +13,10 @@ Clinical Research student developing practical projects in **Clinical Data Manag
 ## Featured Projects
 
 ### Edit Check Simulator
-Python tool that simulates clinical edit checks to identify missing, inconsistent, and invalid study data.
+Simulates clinical edit checks used to detect missing, inconsistent, and out-of-range clinical trial data.
 
 ### CDASH Dataset Mapping
-Public heart disease dataset reorganized into a CDASH-style structure to demonstrate data collection standardization.
+Public heart disease dataset mapped into a CDASH-style structure to demonstrate data collection standardization.
 
 ## Currently Learning
 - SAS
